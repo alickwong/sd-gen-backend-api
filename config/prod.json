@@ -1,0 +1,5 @@
+{
+  "eksCdk" : {
+    "stackName": "sd-gen-prod"
+  }
+}
